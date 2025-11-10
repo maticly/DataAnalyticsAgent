@@ -6,6 +6,7 @@
 > An intelligent data analytics agent powered by Google Gemini and the ReAct (Reasoning + Acting) framework
 
 [![Open In Colab](https://colab.research.google.com/drive/18w4hIWCWMsSCZv-QHi1uYm7CHpAjRVYg?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18w4hIWCWMsSCZv-QHi1uYm7CHpAjRVYg?usp=sharing)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 <img width="1045" height="185" alt="image" src="https://github.com/user-attachments/assets/48190c94-db7a-452d-83b6-875fa5348992" />
